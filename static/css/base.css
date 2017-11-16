@@ -1,0 +1,76 @@
+.header {
+    font-family: "Lobster";
+    color: darkslategray;
+    background-color: dodgerblue;
+    padding: 20px;
+    border-radius: 20px;
+    margin-top: 20px;
+    text-align: center;
+}
+
+.post-header {
+    font-family: "Lobster";
+    color: darkslategray;
+    background-color: dodgerblue;
+    padding: 20px;
+    border-radius: 20px;
+    margin-top: 20px;
+    text-align: center;
+}
+
+.home-elements {
+    font-family: "Lobster";
+    color: darkslategray;
+    background-color: dodgerblue;
+    padding: 20px;
+    border-radius: 20px;
+    margin-top: 20px;
+    text-align: center;
+}
+
+.home-tiles {
+    display: block;
+    margin: 20px;
+    text-align: center;
+}
+
+.branding {
+    font-size: 80px;
+    margin: 30px;
+    display: inline;
+}
+
+.nav {
+    font-size: 20px;
+    background-color: powderblue;
+    padding: 20px;
+}
+
+body {
+    background-color: azure;
+}
+
+.headshot {
+    border-radius: 80px;
+    align-self: right;
+}
+
+.nav-link {
+    margin: 60px;
+}
+
+.content-container {
+    margin: 40px;
+}
+
+.fixed-bottom {
+    text-align: center;
+    padding: 20px;
+}
+
+.home-elements-image {
+    border-radius: 40px;
+    margin-right: 10px;
+}
+
+
